@@ -9,3 +9,11 @@
 <h3 align="center">
   Linguagem Portugol com Visualg
 </h3>
+
+<h3 align="center">
+  <a href="./algoritmos">Algoritmos</a> | <a href="./visualg">Visualg</a> | <a href="LICENSE">Licença</a>
+</h3>
+
+<h4 align="center">
+  by <a href="https://github.com/christyanbrayan">christyanbrayan</a>
+</h4>
