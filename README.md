@@ -7,7 +7,7 @@
 </h2>
 
 <h3 align="center">
-  Linguagem Portugol com Visualg
+  Pseudolinguagem Portugol do Visualg
 </h3>
 
 <h3 align="center">
