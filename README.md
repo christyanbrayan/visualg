@@ -7,11 +7,11 @@
 </h2>
 
 <h3 align="center">
-  Pseudolinguagem Portugol do Visualg
+  Pseudolinguagem Portugol do VisuAlg
 </h3>
 
 <h3 align="center">
-  <a href="./algoritmos">Algoritmos</a> | <a href="./visualg">Visualg</a> | <a href="LICENSE">Licença</a>
+  <a href="./algoritmos">Algoritmos</a> | <a href="./visualg">VisuAlg</a> | <a href="LICENSE">Licença</a>
 </h3>
 
 <h4 align="center">
