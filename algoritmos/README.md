@@ -9,3 +9,4 @@
   * *Operadores relacionais e lógicos*
 * [Aula 6 - Idade, Conversor Dólar, Conversor Celsius, Imposto](./aula6)
   * *Exercícios*
+  * *Exercício Proposto: Empréstimo*
