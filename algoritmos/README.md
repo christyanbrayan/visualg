@@ -10,6 +10,6 @@
 * [Aula 6 - Idade, Conversor Dólar, Conversor Celsius, Imposto e Empréstimo](./aula6)
   * *Exercícios*
   * *Exercício Proposto: Empréstimo*
-* [Aula 7 - Idade Melhorado, Par ou Ímpar, IMC, ](./aula7)
+* [Aula 7 - Idade Melhorado, Par ou Ímpar, IMC, Idade Pra Dirigir e Aprovado ou Reprovado](./aula7)
   * *Estruturas Condicionais - se/senao*
-  * *Exercícios Propostos:*
+  * *Exercícios Propostos: Idade Pra Dirigir e Aprovado ou Reprovado*

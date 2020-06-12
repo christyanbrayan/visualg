@@ -1,3 +1,5 @@
 ![](../../imgs/print15.png)
 ![](../../imgs/print16.png)
 ![](../../imgs/print17.png)
+![](../../imgs/print18.png)
+![](../../imgs/print19.png)
