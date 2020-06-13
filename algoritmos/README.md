@@ -13,3 +13,7 @@
 * [Aula 7 - Idade Melhorado, Par ou Ímpar, IMC, Idade Pra Dirigir e Aprovado ou Reprovado](./aula7)
   * *Estruturas Condicionais - se/senao*
   * *Exercícios Propostos: Idade Pra Dirigir e Aprovado ou Reprovado*
+* [Aula 8 - Aprovado, Reprovado ou Recuperação, IMC Melhorado, Criança Esperança, Dependentes Funcionário](./aula8)
+	* *Estrutura Condicional Aninhada - se/senao/se*
+	* *Estrutura Condicional Escolha Caso*
+	* *Exercícios Propostos: *
