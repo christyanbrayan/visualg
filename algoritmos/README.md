@@ -17,3 +17,6 @@
 	* *Estrutura Condicional Aninhada - se/senao/se*
 	* *Estrutura Condicional Escolha Caso*
 	* *Exercícios Propostos: Aproveitamento Aluno e Partida de Futebol*
+* [Aula 9 - Conte até 10, Conte de 10 até 0, Conte até um Valor Personalizado, Somatório de 5 números, Somatório de 5 números mostrando o maior número digitado, Conversão de Moedas em uma Quantidade de Vezes Personalizada, Contagem Inteligente e Melhor Aluno da Turma](./aula9)
+	* *Estrutura de Repetição Enquanto*
+	* *Exercícios Propostos: Contagem Inteligente e Melhor Aluno*
