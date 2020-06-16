@@ -20,3 +20,6 @@
 * [Aula 9 - Conte até 10, Conte de 10 até 0, Conte até um Valor Personalizado, Somatório de 5 números, Somatório de 5 números mostrando o maior número digitado, Conversão de Moedas em uma Quantidade de Vezes Personalizada, Contagem Inteligente e Melhor Aluno da Turma](./aula9)
 	* *Estrutura de Repetição Enquanto*
 	* *Exercícios Propostos: Contagem Inteligente e Melhor Aluno*
+* [Aula 10 - Somador Numérico com Repita, Contar de 1 a 10, Tabuada, Conta Negativos, Fatorial, Fatoriais, Número Primo, Super Contador e Escolhendo Pessoas](./aula10)
+	* *Estrutura de Repetição Repita Ate*
+	* *Exercícios Propostos: Super Contador e Escolhendo Pessoas*
