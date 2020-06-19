@@ -23,3 +23,6 @@
 * [Aula 10 - Somador Numérico com Repita, Contar de 1 a 10, Tabuada, Conta Negativos, Fatorial, Fatoriais, Número Primo, Super Contador e Escolhendo Pessoas](./aula10)
 	* *Estrutura de Repetição Repita Ate*
 	* *Exercícios Propostos: Super Contador e Escolhendo Pessoas*
+* [Aula 11 - Contar ate 10, Contar com passo, Contar 10 a 1 (com passo -1), Números Pares, Contagem Regressiva de Pares, Quantos valores entre 0 e 10, Quantos valores entre 0 e 10 e exibindo a soma entre os ímpares, Sequência de Fibonacci e Analisador de 5 Valores](./aula11)
+	* *Estrutura de Repetição Para Faca*
+	* *Exercícios Propostos: Sequência de Fibonacci e Analisador de 5 Valores*
