@@ -28,3 +28,5 @@
 	* *Exercícios Propostos: Sequência de Fibonacci e Analisador de 5 Valores*
 * [Aula 12 - Detector de pesado, Procedimento de soma, Procedimento de soma com verificar par/impar, Soma parâmetros por referência, Sequência de Fibonacci com Procedimento](./aula12)
 	* *Procedimentos*
+* [Aula 13 - Funções Somar dois valores, verificador par/impar, fatorial de um num, fibonacci por referencia; e analisador de strings](./aula13)
+	* *Funções e Funções do VisuAlg*
