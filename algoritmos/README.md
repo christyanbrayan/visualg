@@ -31,5 +31,8 @@
 * [Aula 13 - Funções Somar dois valores, verificador par/impar, fatorial de um num, fibonacci por referencia; e analisador de strings](./aula13)
 	* *Funções e Funções do VisuAlg*
 * [Aula 14 - Teste vetor, ler 7 vetores e mostrar quantos sao pares, e mostrar as posições dos valores, Listagem da turma com quais alunos acima da media, Só importa quem começa com c, Ordenação de vetor, Torneio de futebol, Corrigindo provas e Reservar cadeiras do cinema](./aula14)
-	* *Variáveis Compostas Unidemsionais (Vetores)*
+	* *Variáveis Compostas Unidimensionais (Vetores)*
 	* *Exercícios Propostos: Torneio de Futebol, Corrigindo Provas e Reservar Cadeiras do Cinema*
+* [Aula 15 - Preencher uma matriz 3x2 com valores via leia, Ler uma matriz 3x3 e mostrar os pares, Matriz identidade de 3 ordem, Preencher uma matriz de 4 ordem, Dissecando Matrizes e Jogo da Velha](./aula15)
+	* *Variáveis Compostas Multidimensionais (Matrizes)*
+	* *Exercícios Propostos: Dissecando Matrizes e Jogo da Velha*
