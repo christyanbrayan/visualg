@@ -30,3 +30,6 @@
 	* *Procedimentos*
 * [Aula 13 - Funções Somar dois valores, verificador par/impar, fatorial de um num, fibonacci por referencia; e analisador de strings](./aula13)
 	* *Funções e Funções do VisuAlg*
+* [Aula 14 - Teste vetor, ler 7 vetores e mostrar quantos sao pares, e mostrar as posições dos valores, Listagem da turma com quais alunos acima da media, Só importa quem começa com c, Ordenação de vetor, Torneio de futebol, Corrigindo provas e Reservar cadeiras do cinema](./aula14)
+	* *Variáveis Compostas Unidemsionais (Vetores)*
+	* *Exercícios Propostos: Torneio de Futebol, Corrigindo Provas e Reservar Cadeiras do Cinema*
