@@ -11,7 +11,7 @@
 </h3>
 
 <h3 align="center">
-  <a href="./algoritmos">Algoritmos</a> | <a href="./visualg">VisuAlg</a> | <a href="LICENSE">Licença</a>
+  <a href="./algoritmos">Algoritmos</a> | <a href="./visualg">VisuAlg</a> | <a href="./exercicios-resolvidos-e-atividades-propostas/zip/">Resolvidos</a> | <a href="LICENSE">Licença</a>
 </h3>
 
 <h4 align="center">
