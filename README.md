@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Algoritmos do Curso de Lógica de Programação do <a href="http://www.cursoemvideo.com"> Curso em Vídeo </a>
+  Algoritmos do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso</a> de Lógica de Programação do <a href="http://www.cursoemvideo.com"> Curso em Vídeo </a>
 </h2>
 
 <h3 align="center">
